@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+   <title>Remembrance Day</title>
+  </head>
+<body>  
+<nav>
+    <a href=“index.html”>Remembrance Day</a>
+    <a href=“whyremember.html”>Why do we remember?</a>
+    <a href=“ThePoppy.html”>The Poppy</a>
+  </nav>
+  <h1>Remembrance Day</h1>
+  <nav>
+   <ul>
+    <li><a href=“#What is Remembrance Day?”>What is Remembrance Day?</a></li>
+    <li><a href=“#When do we celebrated?”>When do we celebrate?</a></li>
+   </ul>
+  </nav>
+  <div id=“What is Remembrance Day?”>
+   <h2>What is Remembrance Day?</h2>
+   <p>Remembrance Day commemorates those who died in armed conflicts, particularly in and since World War I. It is also known as <strong>Armistice Day</strong>. Many gather in memorial parks, community halls, workplaces, schools and homes to stand in honour of all who have fallen.</p>
+</div>
+<div id=“When do we celebrated?”>
+   <h2>When do we celebrate?</h2>
+   <p>We celebrate and honour many people who fought on November 11, the 11th day of the eleventh month at 11Am. It marks the day World War One ended, at 11am on the 11th day of the 11th month, in 1918. A two-minute silence is held at 11am to remember the people who have died in wars.</p>
+</div>
+<img src="http://sca.ycdsb.ca/wp-content/uploads/sites/58/2017/11/remembrance-day-solider.jpg">
+</body>
+</html>
